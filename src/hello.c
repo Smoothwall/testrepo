@@ -5,7 +5,7 @@
 
 int main (void)
 {
-	pritf("Hello World...\n");
+	printf("Hello World...\n");
 
 	return (0);
 }
