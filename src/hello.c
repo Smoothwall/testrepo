@@ -1,3 +1,5 @@
+// Copyright (C) 2016
+
 #include <stdio.h>
 #include <stdlib.h>
 
